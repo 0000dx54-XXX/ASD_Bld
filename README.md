@@ -1,5 +1,4 @@
-# ASD_Bld <img src="Tochka.png" align="right" width="50">
-# 🎮 CS3 Android Installer (Beta)
+# 🎮 CS3 Android Installer (Beta)  <img src="Tochka.png" align="right" width="50">
 
 Утилита для автоматизированной установки Counter-Strike 3 на устройства Android. 
 
