@@ -26,4 +26,4 @@
 *   **Требования:** Android 10+, стабильный Wi-Fi.
 
 ---
-*Created by ASD_Bld Team*
+**Created by CatDEVELOPER** 🐈‍⬛
